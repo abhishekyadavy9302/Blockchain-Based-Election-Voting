@@ -19,7 +19,7 @@ To eliminate voting fraud and enhance trust in the electoral process through the
 - 📊 Real-time result dashboards using front-end integration.
 - 🌐 Multi-region elections with district-level segregation.
 - 🔒 Privacy-preserving voting using zero-knowledge proofs or homomorphic encryption.
-- contact address - ![abhi](https://github.com/user-attachments/assets/3095e9d2-b161-4445-b03c-3de97c4ea711)
+- contact address -0x1D489a18723eC6d59a581bce9d3abC8a6D297Ec5 ![abhi](https://github.com/user-attachments/assets/3095e9d2-b161-4445-b03c-3de97c4ea711)
 
 ![abhi](https://github.com/user-attachments/assets/a95bbbbc-78d9-4e5b-8746-6856dde5de7b)
 
